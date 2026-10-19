@@ -1,0 +1,6 @@
+{
+  "name": "Hanbok 30s Short-Form Video Studio",
+  "description": "30-second social media video storyboard and interactive player introducing traditional Korean Hanbok to prospective university study-abroad students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
